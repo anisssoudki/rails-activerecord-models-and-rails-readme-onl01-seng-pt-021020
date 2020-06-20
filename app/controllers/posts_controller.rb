@@ -1,1 +1,1 @@
-class PostsController < Appl
+class PostsController < ApplicationController
